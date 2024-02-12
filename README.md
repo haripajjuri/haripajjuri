@@ -6,13 +6,19 @@
 
 ###
 
-<p align="left">👋, I am a computer science student.  I'm passionate about learning new concepts and applying them to create innovative solutions. I have great knowledge on full stack web developemt, proficient in both frontend and backend technologies with a focus on delivering efficient solutions🌴. Currently exploring various domains within computer science. I am always eager to learn new things and expand my skills on various technologies☁️.</p>
+<p align="center">👋, I am a computer science student.  I'm passionate about learning new concepts and applying them to create innovative solutions. I have great knowledge on full stack web developemt, proficient in both frontend and backend technologies with a focus on delivering efficient solutions🌴. Currently exploring various domains within computer science. I am always eager to learn new things and expand my skills on various technologies☁️.</p>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=haripajjuri.haripajjuri&"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haripajjuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="155" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=haripajjuri&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="155" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=haripajjuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=haripajjuri&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
