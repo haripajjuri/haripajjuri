@@ -14,6 +14,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=haripajjuri.haripajjuri&"  />
 </div>
 
+<br/>
+
+###
+
+<h4 align="left">stats👾</h4>
+
 ###
 
 <div align="center">
@@ -23,7 +29,7 @@
 
 ###
 
-<h4 align="left">My Techstack</h4>
+<h4 align="left">My Techstack🤖</h4>
 
 ###
 
