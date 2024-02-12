@@ -11,8 +11,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haripajjuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=haripajjuri&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=haripajjuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="155" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=haripajjuri&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="155" alt="streak graph"  />
 </div>
 
 ###
@@ -45,23 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h4 align="left">connect with me</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/hari-pajjuri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/hari_pajjuri__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="41" height="26" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
