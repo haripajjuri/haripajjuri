@@ -14,11 +14,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=haripajjuri.haripajjuri&"  />
 </div>
 
-<br/>
-
 ###
 
-<h4 align="left">stats👾</h4>
+<h4 align="left">Stats👾</h4>
 
 ###
 
