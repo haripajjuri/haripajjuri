@@ -2,11 +2,11 @@
 
 ###
 
-<h6 align="center">I am a full stack web developer💻</h6>
+<h5 align="center">I am a full stack web developer💻</h5>
 
 ###
 
-<h6 align="left">👋, I am a computer science student.  I'm passionate about learning new concepts and applying them to create innovative solutions. I have great knowledge on full stack web developemt, proficient in both frontend and backend technologies with a focus on delivering efficient solutions🌴. Currently exploring various domains within computer science. I am always eager to learn new things and expand my skills on various technologies☁️.</h6>
+<h5 align="left">👋, I am a computer science student.  I'm passionate about learning new concepts and applying them to create innovative solutions. I have great knowledge on full stack web developemt, proficient in both frontend and backend technologies with a focus on delivering efficient solutions🌴. Currently exploring various domains within computer science. I am always eager to learn new things and expand my skills on various technologies☁️.</h5>
 
 ###
 
