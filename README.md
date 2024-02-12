@@ -11,8 +11,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haripajjuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=haripajjuri&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="139" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=haripajjuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=haripajjuri&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
