@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">👋, I am a computer science student.  I'm passionate about learning new concepts and applying them to create innovative solutions. I have great knowledge on full stack web developemt, proficient in both frontend and backend technologies with a focus on delivering efficient solutions🌴. Currently exploring various domains within computer science. I am always eager to learn new things and expand my skills on various technologies☁️.</p>
+<p align="center">👋, I am a computer science engineering student.  I'm passionate about learning new concepts and technologies. I have great knowledge on full stack web developemt, proficient in both frontend and backend technologies with a focus on delivering efficient solutions🌴. Currently exploring various domains within computer science. I am always eager to learn new things and expand my skills on various technologies☁️.</p>
 
 ###
 
